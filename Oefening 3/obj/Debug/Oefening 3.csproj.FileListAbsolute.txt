@@ -1,0 +1,7 @@
+C:\Users\Dennis Nijs\Documents\School\Programmeren Jaar 1\1e semester\Inleiding tot programmeren\Les 6 - Methodes\Methodes\Oefening 3\bin\Debug\Oefening 3.exe.config
+C:\Users\Dennis Nijs\Documents\School\Programmeren Jaar 1\1e semester\Inleiding tot programmeren\Les 6 - Methodes\Methodes\Oefening 3\bin\Debug\Oefening 3.exe
+C:\Users\Dennis Nijs\Documents\School\Programmeren Jaar 1\1e semester\Inleiding tot programmeren\Les 6 - Methodes\Methodes\Oefening 3\bin\Debug\Oefening 3.pdb
+C:\Users\Dennis Nijs\Documents\School\Programmeren Jaar 1\1e semester\Inleiding tot programmeren\Les 6 - Methodes\Methodes\Oefening 3\obj\Debug\Oefening 3.csproj.CoreCompileInputs.cache
+C:\Users\Dennis Nijs\Documents\School\Programmeren Jaar 1\1e semester\Inleiding tot programmeren\Les 6 - Methodes\Methodes\Oefening 3\obj\Debug\Oefening 3.exe
+C:\Users\Dennis Nijs\Documents\School\Programmeren Jaar 1\1e semester\Inleiding tot programmeren\Les 6 - Methodes\Methodes\Oefening 3\obj\Debug\Oefening 3.pdb
+C:\Users\Dennis Nijs\Documents\School\Programmeren Jaar 1\1e semester\Inleiding tot programmeren\Les 6 - Methodes\Methodes\Oefening 3\obj\Debug\Oefening 3.csproj.AssemblyReference.cache
